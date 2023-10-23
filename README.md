@@ -13,6 +13,8 @@
    ###  [Class 9 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%209%20Notes)
     
 ## OPS 201: Foundations of Computer Operations
+
+  ### [Class 1 Notes]
 ## OPS 301: Networking and Systems Administration
 ## OPS 401: Cybersecurity Engineering
 

@@ -14,7 +14,7 @@
     
 ## OPS 201: Foundations of Computer Operations
 
-  ### [Class 1 Notes]
+  ### [Class 01 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/f2a73e97c45c43e61413839b078b87ef6570292e/Class%2001%20Notes)
 ## OPS 301: Networking and Systems Administration
 ## OPS 401: Cybersecurity Engineering
 

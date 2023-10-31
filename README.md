@@ -18,6 +18,7 @@
   ### [Class 02 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%2002%20Notes)
   ### [Class 03 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%2003%20Notes)
   ### [Class 04 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/%23%20Class%2004%20Notes.md)
+  ### [Class 07 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%2007%20Notes)
   
 ## OPS 301: Networking and Systems Administration
 ## OPS 401: Cybersecurity Engineering

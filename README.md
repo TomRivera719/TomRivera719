@@ -2,7 +2,7 @@
 
   ## OPS 102: Intro to Computer Operations
 
-   ###  [Class 1 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%201%20Notes)
+   ###  [Class 1 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%201%20Notes.md)
    ###  [Class 2 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%202%20Notes)
    ###  [Class 3 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%203%20Notes)
    ###  [Class 4 Notes](https://github.com/TomRivera719/ops-reading-notes/blob/main/Class%204%20Notes)
